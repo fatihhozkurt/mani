@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: lol-manifest-matcher
+
+whatsapp:
+  fatih:
+    number: 905340422922
+

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="tr" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>✨ Hangi Manifest Kızıymışsın ✨</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+</head>
+<body>
+<audio id="background-music" loop>
+    <source th:src="@{'/audio/' + ${songFileName}}" type="audio/mpeg">
+</audio>
+
+<button id="play-pause-btn" class="music-button">
+    <i id="play-pause-icon" class="fa-solid fa-pause"></i>
+</button>
+
+<div id="capture-area">
+    <h1>İşte Senin Ruh İkizin!</h1>
+    <p><b th:text="${secilenKarakter.name}">Lux</b> karakterinin Manifest'teki yansıması...</p>
+    <div class="result-container">
+        <div class="result-card">
+            <img th:src="${secilenKarakter.imageUrl}" alt="Seçilen LoL Karakteri">
+            <h3 th:text="${secilenKarakter.name}">Lux</h3>
+        </div>
+        <div class="result-card">
+            <img th:src="${eslesenKiz.imageUrl}" alt="Eşleşen Manifest Kızı">
+            <h3 th:text="${eslesenKiz.name}">Mina</h3>
+            <p th:text="${eslesenKiz.role}">Ritim Gitar</p>
+        </div>
+    </div>
+    <div class="match-reason">
+        <p>"<span th:text="${eslesmeNedeni}"></span>"</p>
+    </div>
+</div>
+
+<div class="share-buttons">
+    <button id="instagram-share-btn" class="share-button instagram">
+        <i class="fa-solid fa-camera"></i> Sonucu İndir
+    </button>
+
+    <a th:href="@{'https://wa.me/' + ${@environment.getProperty('whatsapp.fatih.number')}(text='Fatih valla Manifest ruh ikizim ' + ${eslesenKiz.name} + ' çıktı! Seni nereye şikayet edebilirim?')}"
+       target="_blank" class="share-button whatsapp">
+        <i class="fab fa-whatsapp"></i> Fatih ile Paylaş
+    </a>
+</div>
+
+<a href="/" class="button share-button">Tekrar Deneyiniz</a>
+
+<script>
+    const audio = document.getElementById('background-music');
+    const playPauseBtn = document.getElementById('play-pause-btn');
+    const playPauseIcon = document.getElementById('play-pause-icon');
+
+    let isPlaying = false;
+    audio.play()
+        .then(() => {
+            isPlaying = true;
+            playPauseIcon.classList.remove('fa-play');
+            playPauseIcon.classList.add('fa-pause');
+        })
+        .catch(error => {
+            isPlaying = false;
+            playPauseIcon.classList.remove('fa-pause');
+            playPauseIcon.classList.add('fa-play');
+            console.warn("Otomatik oynatma engellendi, kullanıcının butona basması gerekiyor.");
+        });
+
+    playPauseBtn.addEventListener('click', () => {
+        if (isPlaying) {
+            audio.pause();
+            isPlaying = false;
+            playPauseIcon.classList.remove('fa-pause');
+            playPauseIcon.classList.add('fa-play');
+        } else {
+            audio.play();
+            isPlaying = true;
+            playPauseIcon.classList.remove('fa-play');
+            playPauseIcon.classList.add('fa-pause');
+        }
+    });
+
+    document.getElementById('instagram-share-btn').addEventListener('click', function () {
+        const captureArea = document.getElementById('capture-area');
+
+        html2canvas(captureArea, {
+            backgroundColor: '#1a1a2e',
+            useCORS: true
+        }).then(canvas => {
+            const link = document.createElement('a');
+            link.download = 'utanmadan-indiriyor.png';
+            link.href = canvas.toDataURL('image/png');
+            link.click();
+        });
+    });
+</script>
+
+</body>
+</html>

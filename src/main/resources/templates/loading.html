@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="tr" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eşleşiyor...</title>
+    <style>
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #1E2A47;
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            flex-direction: column;
+        }
+
+        .spinner {
+            border: 8px solid rgba(255, 255, 255, 0.2);
+            border-left-color: #57C5B6;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Yükleme metni */
+        .loading-text {
+            margin-top: 20px;
+            font-size: 1.2em;
+            font-style: italic;
+        }
+    </style>
+</head>
+
+<body th:data-redirect-url="${redirectUrl}">
+
+<div class="spinner"></div>
+<p class="loading-text" th:text="${quote}">Lol karakterlerine manifestival bileti alınıyor...</p>
+
+<script>
+    const redirectUrl = document.body.dataset.redirectUrl;
+
+    const funnyQuotes = [
+        "Manifestival için biletler alınıyor...",
+        "Karakterler konser sonrası kulise götürülüyor çalışıyor...",
+        "Malatyalılar hakkında önyargılarım var...",
+        "İnşallah Hilal çıkar hadi bakalım...",
+        "Gösteri +18 olduğu için çocuk karakterlerin biletleri iptal ediliyor...",
+        "Teemo her yere mantar bırakıp kaçtı, gecikme için üzgünüz.",
+        "Manifestival için karaborsadan bilet alınıyor..."
+    ];
+
+    const quoteElement = document.querySelector('.loading-text');
+    const randomIndex = Math.floor(Math.random() * funnyQuotes.length);
+    quoteElement.innerText = funnyQuotes[randomIndex];
+
+
+    setTimeout(() => {
+
+        window.location.href = redirectUrl;
+    }, 3500);</script>
+</script>
+</body>
+</html>

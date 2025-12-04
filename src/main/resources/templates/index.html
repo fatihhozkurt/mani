@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="tr" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>✨ Hangi Manifest Kızısın ✨</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+
+<h1>🌟 Hangi Manifest Kızısın? 🌟</h1>
+<h2>Öğrenmek için karakterini seç!</h2>
+
+<div class="search-container">
+    <input type="text" id="search-box" placeholder="Bir şampiyon ara...">
+</div>
+
+<div class="container" id="character-container">
+    <!-- Kart yapısını güncelledik -->
+    <div th:each="character : ${karakterler}" class="character-card">
+        <a th:href="@{'/loading/' + ${character.name}}">
+            <img th:src="${character.imageUrl}" alt="Karakter Resmi">
+            <div class="card-info">
+                <h3 th:text="${character.name}">Karakter Adı</h3>
+                <p th:text="${character.title}">Karakter Unvanı</p>
+            </div>
+        </a>
+    </div>
+</div>
+<script>
+    const searchBox = document.getElementById('search-box');
+    const characterContainer = document.getElementById('character-container');
+    const characterCards = characterContainer.getElementsByClassName('character-card');
+
+    searchBox.addEventListener('keyup', function () {
+        const searchTerm = searchBox.value.toLowerCase();
+
+        for (let i = 0; i < characterCards.length; i++) {
+            const card = characterCards[i];
+            const characterName = card.querySelector('h3').textContent.toLowerCase();
+
+            if (characterName.includes(searchTerm)) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        }
+    });
+</script>
+</body>
+</html>

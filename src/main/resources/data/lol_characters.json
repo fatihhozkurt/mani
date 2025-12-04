@@ -1,0 +1,980 @@
+[
+  {
+    "id": "Aatrox",
+    "name": "Aatrox",
+    "title": "Darkin Kılıcı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"
+  },
+  {
+    "id": "Ahri",
+    "name": "Ahri",
+    "title": "Dokuz Kuyruklu Tilki",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg"
+  },
+  {
+    "id": "Akali",
+    "name": "Akali",
+    "title": "Baş Kırmızı Suikastçı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg"
+  },
+  {
+    "id": "Akshan",
+    "name": "Akshan",
+    "title": "Haydut Nöbetçi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akshan_0.jpg"
+  },
+  {
+    "id": "Alistar",
+    "name": "Alistar",
+    "title": "Minotor",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg"
+  },
+  {
+    "id": "Amumu",
+    "name": "Amumu",
+    "title": "Hüzünlü Mumya",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg"
+  },
+  {
+    "id": "Anivia",
+    "name": "Anivia",
+    "title": "Buz Ankası",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg"
+  },
+  {
+    "id": "Annie",
+    "name": "Annie",
+    "title": "Kara Çocuk",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg"
+  },
+  {
+    "id": "Aphelios",
+    "name": "Aphelios",
+    "title": "İnancın Silahı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg"
+  },
+  {
+    "id": "Ashe",
+    "name": "Ashe",
+    "title": "Buz Okçu",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg"
+  },
+  {
+    "id": "AurelionSol",
+    "name": "Aurelion Sol",
+    "title": "Yıldızların Yaradanı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg"
+  },
+  {
+    "id": "Azir",
+    "name": "Azir",
+    "title": "Kumların İmparatoru",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg"
+  },
+  {
+    "id": "Bard",
+    "name": "Bard",
+    "title": "Tınıların Gezgini",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg"
+  },
+  {
+    "id": "Belveth",
+    "name": "Bel'Veth",
+    "title": "Hiçlik'in İmparatoriçesi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Belveth_0.jpg"
+  },
+  {
+    "id": "Blitzcrank",
+    "name": "Blitzcrank",
+    "title": "Büyük Buharlı Golem",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg"
+  },
+  {
+    "id": "Brand",
+    "name": "Brand",
+    "title": "İntikam Ateşi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg"
+  },
+  {
+    "id": "Braum",
+    "name": "Braum",
+    "title": "Freljord'un Yüreği",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg"
+  },
+  {
+    "id": "Caitlyn",
+    "name": "Caitlyn",
+    "title": "Piltover Şerifi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg"
+  },
+  {
+    "id": "Camille",
+    "name": "Camille",
+    "title": "Çelik Gölge",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg"
+  },
+  {
+    "id": "Cassiopeia",
+    "name": "Cassiopeia",
+    "title": "Yılanın Şefkati",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg"
+  },
+  {
+    "id": "Chogath",
+    "name": "Cho'Gath",
+    "title": "Hiçlik'in Dehşeti",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg"
+  },
+  {
+    "id": "Corki",
+    "name": "Corki",
+    "title": "Gözüpek Bombacı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg"
+  },
+  {
+    "id": "Darius",
+    "name": "Darius",
+    "title": "Noxus'un Eli",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg"
+  },
+  {
+    "id": "Diana",
+    "name": "Diana",
+    "title": "Ay'ın İntikamı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg"
+  },
+  {
+    "id": "Draven",
+    "name": "Draven",
+    "title": "Görkemli Cellat",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg"
+  },
+  {
+    "id": "DrMundo",
+    "name": "Dr. Mundo",
+    "title": "Zaun'un Delisi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg"
+  },
+  {
+    "id": "Ekko",
+    "name": "Ekko",
+    "title": "Zamanı Kıran Çocuk",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg"
+  },
+  {
+    "id": "Elise",
+    "name": "Elise",
+    "title": "Örümcek Kraliçe",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg"
+  },
+  {
+    "id": "Evelynn",
+    "name": "Evelynn",
+    "title": "Azabın Kucağı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg"
+  },
+  {
+    "id": "Ezreal",
+    "name": "Ezreal",
+    "title": "Dâhi Kâşif",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg"
+  },
+  {
+    "id": "Fiddlesticks",
+    "name": "Fiddlesticks",
+    "title": "Kadim Cani",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_0.jpg"
+  },
+  {
+    "id": "Fiora",
+    "name": "Fiora",
+    "title": "Büyük Düellocu",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg"
+  },
+  {
+    "id": "Fizz",
+    "name": "Fizz",
+    "title": "Dalgaların Dümencisi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg"
+  },
+  {
+    "id": "Galio",
+    "name": "Galio",
+    "title": "Büyü Kalkanı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg"
+  },
+  {
+    "id": "Gangplank",
+    "name": "Gangplank",
+    "title": "Okyanus Şeytanı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg"
+  },
+  {
+    "id": "Garen",
+    "name": "Garen",
+    "title": "Demacia'nın Kudreti",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg"
+  },
+  {
+    "id": "Gnar",
+    "name": "Gnar",
+    "title": "Kayıp Halka",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg"
+  },
+  {
+    "id": "Gragas",
+    "name": "Gragas",
+    "title": "Kavgacı Ayyaş",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg"
+  },
+  {
+    "id": "Graves",
+    "name": "Graves",
+    "title": "Kanun Kaçağı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_0.jpg"
+  },
+  {
+    "id": "Gwen",
+    "name": "Gwen",
+    "title": "Kutsal Terzi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_0.jpg"
+  },
+  {
+    "id": "Hecarim",
+    "name": "Hecarim",
+    "title": "Savaşın Gölgesi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_0.jpg"
+  },
+  {
+    "id": "Heimerdinger",
+    "name": "Heimerdinger",
+    "title": "Saygın Mucit",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg"
+  },
+  {
+    "id": "Illaoi",
+    "name": "Illaoi",
+    "title": "Kraken Rahibesi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg"
+  },
+  {
+    "id": "Irelia",
+    "name": "Irelia",
+    "title": "Bıçakların Dansı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg"
+  },
+  {
+    "id": "Ivern",
+    "name": "Ivern",
+    "title": "Yeşeren Dede",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_0.jpg"
+  },
+  {
+    "id": "Janna",
+    "name": "Janna",
+    "title": "Fırtınanın Hiddeti",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg"
+  },
+  {
+    "id": "JarvanIV",
+    "name": "Jarvan IV",
+    "title": "Demacia'nın Örneği",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg"
+  },
+  {
+    "id": "Jax",
+    "name": "Jax",
+    "title": "Silah Ustası",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg"
+  },
+  {
+    "id": "Jayce",
+    "name": "Jayce",
+    "title": "Geleceğin Koruyucusu",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_0.jpg"
+  },
+  {
+    "id": "Jhin",
+    "name": "Jhin",
+    "title": "Virtüöz",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg"
+  },
+  {
+    "id": "Jinx",
+    "name": "Jinx",
+    "title": "Delifişek",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg"
+  },
+  {
+    "id": "Kaisa",
+    "name": "Kai'Sa",
+    "title": "Hiçlik'in Kızı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg"
+  },
+  {
+    "id": "Kalista",
+    "name": "Kalista",
+    "title": "İntikam Mızrağı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_0.jpg"
+  },
+  {
+    "id": "Karma",
+    "name": "Karma",
+    "title": "Aydınlanmış Olan",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg"
+  },
+  {
+    "id": "Karthus",
+    "name": "Karthus",
+    "title": "Ölümşakıyan",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_0.jpg"
+  },
+  {
+    "id": "Kassadin",
+    "name": "Kassadin",
+    "title": "Hiçlik Gezgini",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg"
+  },
+  {
+    "id": "Katarina",
+    "name": "Katarina",
+    "title": "Uğursuz Bıçak",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg"
+  },
+  {
+    "id": "Kayle",
+    "name": "Kayle",
+    "title": "Adalet",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_0.jpg"
+  },
+  {
+    "id": "Kayn",
+    "name": "Kayn",
+    "title": "Gölge Ekinci",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg"
+  },
+  {
+    "id": "Kennen",
+    "name": "Kennen",
+    "title": "Fırtınanın Yüreği",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg"
+  },
+  {
+    "id": "Khazix",
+    "name": "Kha'Zix",
+    "title": "Hiçlik Yağmacısı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg"
+  },
+  {
+    "id": "Kindred",
+    "name": "Kindred",
+    "title": "Ebedi Avcılar",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg"
+  },
+  {
+    "id": "Kled",
+    "name": "Kled",
+    "title": "Hınzır Süvari",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg"
+  },
+  {
+    "id": "KogMaw",
+    "name": "Kog'Maw",
+    "title": "Hiçlik'in Ağzı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_0.jpg"
+  },
+  {
+    "id": "KSante",
+    "name": "K'Sante",
+    "title": "Nazumah'ın Gururu",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KSante_0.jpg"
+  },
+  {
+    "id": "LeBlanc",
+    "name": "LeBlanc",
+    "title": "Hilekâr",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeBlanc_0.jpg"
+  },
+  {
+    "id": "LeeSin",
+    "name": "Lee Sin",
+    "title": "Kör Keşiş",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg"
+  },
+  {
+    "id": "Leona",
+    "name": "Leona",
+    "title": "Seher Işığı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg"
+  },
+  {
+    "id": "Lillia",
+    "name": "Lillia",
+    "title": "Utangaç Tomurcuk",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_0.jpg"
+  },
+  {
+    "id": "Lissandra",
+    "name": "Lissandra",
+    "title": "Buz Cadısı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg"
+  },
+  {
+    "id": "Lucian",
+    "name": "Lucian",
+    "title": "İnfazcı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg"
+  },
+  {
+    "id": "Lulu",
+    "name": "Lulu",
+    "title": "Peri Sihirbaz",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_0.jpg"
+  },
+  {
+    "id": "Lux",
+    "name": "Lux",
+    "title": "Işık Leydisi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg"
+  },
+  {
+    "id": "Malphite",
+    "name": "Malphite",
+    "title": "Yekpare",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg"
+  },
+  {
+    "id": "Malzahar",
+    "name": "Malzahar",
+    "title": "Hiçlik'in Peygamberi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_0.jpg"
+  },
+  {
+    "id": "Maokai",
+    "name": "Maokai",
+    "title": "Çarpık Treant",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg"
+  },
+  {
+    "id": "MasterYi",
+    "name": "Master Yi",
+    "title": "Wuju Üstadı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_0.jpg"
+  },
+  {
+    "id": "Milio",
+    "name": "Milio",
+    "title": "Sıcak Alev",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Milio_0.jpg"
+  },
+  {
+    "id": "MissFortune",
+    "name": "Miss Fortune",
+    "title": "Ödül Avcısı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg"
+  },
+  {
+    "id": "Mordekaiser",
+    "name": "Mordekaiser",
+    "title": "Demir Zebani",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg"
+  },
+  {
+    "id": "Morgana",
+    "name": "Morgana",
+    "title": "Düşmüş Melek",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg"
+  },
+  {
+    "id": "Nami",
+    "name": "Nami",
+    "title": "Dalga Çağıran",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg"
+  },
+  {
+    "id": "Nasus",
+    "name": "Nasus",
+    "title": "Kumların Hâkimi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg"
+  },
+  {
+    "id": "Nautilus",
+    "name": "Nautilus",
+    "title": "Derinliklerin Devi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg"
+  },
+  {
+    "id": "Neeko",
+    "name": "Neeko",
+    "title": "Meraklı Bukalemun",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg"
+  },
+  {
+    "id": "Nidalee",
+    "name": "Nidalee",
+    "title": "Yabani Avcı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg"
+  },
+  {
+    "id": "Nilah",
+    "name": "Nilah",
+    "title": "Dizginlenemeyen Neşe",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_0.jpg"
+  },
+  {
+    "id": "Nocturne",
+    "name": "Nocturne",
+    "title": "Ebedi Kâbus",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg"
+  },
+  {
+    "id": "Nunu",
+    "name": "Nunu ve Willump",
+    "title": "Çocuk ve Yetisi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_0.jpg"
+  },
+  {
+    "id": "Olaf",
+    "name": "Olaf",
+    "title": "Başıbozuk",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg"
+  },
+  {
+    "id": "Orianna",
+    "name": "Orianna",
+    "title": "Mekanik Kız",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg"
+  },
+  {
+    "id": "Ornn",
+    "name": "Ornn",
+    "title": "Dağın Kalbindeki Ateş",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg"
+  },
+  {
+    "id": "Pantheon",
+    "name": "Pantheon",
+    "title": "Boyun Eğmeyen Mızrak",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg"
+  },
+  {
+    "id": "Poppy",
+    "name": "Poppy",
+    "title": "Çekicin Koruyucusu",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_0.jpg"
+  },
+  {
+    "id": "Pyke",
+    "name": "Pyke",
+    "title": "Kanlı Poyraz'ın İntikamı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg"
+  },
+  {
+    "id": "Qiyana",
+    "name": "Qiyana",
+    "title": "Elementlerin İmparatoriçesi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_0.jpg"
+  },
+  {
+    "id": "Quinn",
+    "name": "Quinn",
+    "title": "Demacia'nın Kanatları",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg"
+  },
+  {
+    "id": "Rakan",
+    "name": "Rakan",
+    "title": "Gönülçelen",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_0.jpg"
+  },
+  {
+    "id": "Rammus",
+    "name": "Rammus",
+    "title": "Zırhlı Armadillo",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg"
+  },
+  {
+    "id": "RekSai",
+    "name": "Rek'Sai",
+    "title": "Hiçlik'in Kapanı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_0.jpg"
+  },
+  {
+    "id": "Rell",
+    "name": "Rell",
+    "title": "Demir Leydi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_0.jpg"
+  },
+  {
+    "id": "Renata",
+    "name": "Renata Glasc",
+    "title": "Kimya Baronesi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renata_0.jpg"
+  },
+  {
+    "id": "Renekton",
+    "name": "Renekton",
+    "title": "Kumların Kasabı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg"
+  },
+  {
+    "id": "Rengar",
+    "name": "Rengar",
+    "title": "Bıçak Dişli Avcı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg"
+  },
+  {
+    "id": "Riven",
+    "name": "Riven",
+    "title": "Sürgün",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg"
+  },
+  {
+    "id": "Rumble",
+    "name": "Rumble",
+    "title": "Mekanize Bela",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_0.jpg"
+  },
+  {
+    "id": "Ryze",
+    "name": "Ryze",
+    "title": "Rün Büyücüsü",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_0.jpg"
+  },
+  {
+    "id": "Samira",
+    "name": "Samira",
+    "title": "Çöl Gülü",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_0.jpg"
+  },
+  {
+    "id": "Sejuani",
+    "name": "Sejuani",
+    "title": "Freljord'un Gazabı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg"
+  },
+  {
+    "id": "Senna",
+    "name": "Senna",
+    "title": "Kurtarıcı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_0.jpg"
+  },
+  {
+    "id": "Seraphine",
+    "name": "Seraphine",
+    "title": "Hayalperest Şarkıcı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg"
+  },
+  {
+    "id": "Sett",
+    "name": "Sett",
+    "title": "Patron",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg"
+  },
+  {
+    "id": "Shaco",
+    "name": "Shaco",
+    "title": "İblis Soytarı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg"
+  },
+  {
+    "id": "Shen",
+    "name": "Shen",
+    "title": "Alacakaranlığın Gözü",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg"
+  },
+  {
+    "id": "Shyvana",
+    "name": "Shyvana",
+    "title": "Ejder Kanı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg"
+  },
+  {
+    "id": "Singed",
+    "name": "Singed",
+    "title": "Deli Kimyager",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg"
+  },
+  {
+    "id": "Sion",
+    "name": "Sion",
+    "title": "Ölü Dev",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg"
+  },
+  {
+    "id": "Sivir",
+    "name": "Sivir",
+    "title": "Savaş Hanımı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_0.jpg"
+  },
+  {
+    "id": "Skarner",
+    "name": "Skarner",
+    "title": "Kristal Öncü",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_0.jpg"
+  },
+  {
+    "id": "Sona",
+    "name": "Sona",
+    "title": "Telli Sazın Virtüözü",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg"
+  },
+  {
+    "id": "Soraka",
+    "name": "Soraka",
+    "title": "Yıldızların Çocuğu",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_0.jpg"
+  },
+  {
+    "id": "Swain",
+    "name": "Swain",
+    "title": "Noxus'un Ulu Komutanı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg"
+  },
+  {
+    "id": "Sylas",
+    "name": "Sylas",
+    "title": "Zincirsiz",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_0.jpg"
+  },
+  {
+    "id": "Syndra",
+    "name": "Syndra",
+    "title": "Kara Hükümdar",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_0.jpg"
+  },
+  {
+    "id": "TahmKench",
+    "name": "Tahm Kench",
+    "title": "Nehrin Kralı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_0.jpg"
+  },
+  {
+    "id": "Taliyah",
+    "name": "Taliyah",
+    "title": "Taş Dokuyucu",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_0.jpg"
+  },
+  {
+    "id": "Talon",
+    "name": "Talon",
+    "title": "Bıçağın Gölgesi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_0.jpg"
+  },
+  {
+    "id": "Taric",
+    "name": "Taric",
+    "title": "Valoran'ın Kalkanı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg"
+  },
+  {
+    "id": "Teemo",
+    "name": "Teemo",
+    "title": "Çevik İzcibaşı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg"
+  },
+  {
+    "id": "Thresh",
+    "name": "Thresh",
+    "title": "Zincirli Gardiyan",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg"
+  },
+  {
+    "id": "Tristana",
+    "name": "Tristana",
+    "title": "Yordle Topçusu",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_0.jpg"
+  },
+  {
+    "id": "Trundle",
+    "name": "Trundle",
+    "title": "Trol Kralı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg"
+  },
+  {
+    "id": "Tryndamere",
+    "name": "Tryndamere",
+    "title": "Barbar Kral",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg"
+  },
+  {
+    "id": "TwistedFate",
+    "name": "Twisted Fate",
+    "title": "İskambil Ustası",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_0.jpg"
+  },
+  {
+    "id": "Twitch",
+    "name": "Twitch",
+    "title": "Veba Getiren",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_0.jpg"
+  },
+  {
+    "id": "Udyr",
+    "name": "Udyr",
+    "title": "Ruh Gezgini",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_0.jpg"
+  },
+  {
+    "id": "Urgot",
+    "name": "Urgot",
+    "title": "Amansız Savaşçı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg"
+  },
+  {
+    "id": "Varus",
+    "name": "Varus",
+    "title": "İntikam Oku",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg"
+  },
+  {
+    "id": "Vayne",
+    "name": "Vayne",
+    "title": "Gece Avcısı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg"
+  },
+  {
+    "id": "Veigar",
+    "name": "Veigar",
+    "title": "Kötülüğün Minik Efendisi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg"
+  },
+  {
+    "id": "Velkoz",
+    "name": "Vel'Koz",
+    "title": "Hiçlik'in Gözü",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg"
+  },
+  {
+    "id": "Vex",
+    "name": "Vex",
+    "title": "Kasvet",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg"
+  },
+  {
+    "id": "Vi",
+    "name": "Vi",
+    "title": "Piltover Fedaisi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg"
+  },
+  {
+    "id": "Viego",
+    "name": "Viego",
+    "title": "Mahvolmuş Kral",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_0.jpg"
+  },
+  {
+    "id": "Viktor",
+    "name": "Viktor",
+    "title": "Makinelerin Habercisi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg"
+  },
+  {
+    "id": "Vladimir",
+    "name": "Vladimir",
+    "title": "Kızıl Ölüm",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg"
+  },
+  {
+    "id": "Volibear",
+    "name": "Volibear",
+    "title": "Yaklaşan Fırtına",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg"
+  },
+  {
+    "id": "Warwick",
+    "name": "Warwick",
+    "title": "Zaun'un Doymak Bilmeyen Gazabı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg"
+  },
+  {
+    "id": "MonkeyKing",
+    "name": "Wukong",
+    "title": "Muzip Savaşçı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_0.jpg"
+  },
+  {
+    "id": "Xayah",
+    "name": "Xayah",
+    "title": "Asi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_0.jpg"
+  },
+  {
+    "id": "Xerath",
+    "name": "Xerath",
+    "title": "Yüce Büyücü",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg"
+  },
+  {
+    "id": "XinZhao",
+    "name": "Xin Zhao",
+    "title": "Demacia'nın Hizmetkârı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_0.jpg"
+  },
+  {
+    "id": "Yasuo",
+    "name": "Yasuo",
+    "title": "Affedilmeyen",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg"
+  },
+  {
+    "id": "Yone",
+    "name": "Yone",
+    "title": "Unutulmayan",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_0.jpg"
+  },
+  {
+    "id": "Yorick",
+    "name": "Yorick",
+    "title": "Ruhların Çobanı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg"
+  },
+  {
+    "id": "Yuumi",
+    "name": "Yuumi",
+    "title": "Sihirli Kedi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_0.jpg"
+  },
+  {
+    "id": "Zac",
+    "name": "Zac",
+    "title": "Gizli Silah",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_0.jpg"
+  },
+  {
+    "id": "Zed",
+    "name": "Zed",
+    "title": "Gölgelerin Efendisi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg"
+  },
+  {
+    "id": "Zeri",
+    "name": "Zeri",
+    "title": "Zaun'un Kıvılcımı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_0.jpg"
+  },
+  {
+    "id": "Ziggs",
+    "name": "Ziggs",
+    "title": "Patlayıcı Uzmanı",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg"
+  },
+  {
+    "id": "Zilean",
+    "name": "Zilean",
+    "title": "Zaman Bekçisi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_0.jpg"
+  },
+  {
+    "id": "Zoe",
+    "name": "Zoe",
+    "title": "Alacakaranlığın Habercisi",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg"
+  },
+  {
+    "id": "Zyra",
+    "name": "Zyra",
+    "title": "Dikenli Zakkum",
+    "imageUrl": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg"
+  }
+]
